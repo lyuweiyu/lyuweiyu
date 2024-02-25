@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning computer science and looking for new resource to learn!
 - 💞️ I’m looking to collaborate on fellow and peer who can study together
 - 📫 How to reach me
-- my phone: +1 7342636664
 - email : lyuweiyu@umich.edu
 
 <!---
